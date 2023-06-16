@@ -5,7 +5,7 @@
    "curlib": "&demo",
    "preUsrlibl": "&demo",
    "setIBMiEnvCmd": ["CALL &demo/SETUP"],
-   "repository" : "https://github.com/AndreaRibuoli/RIBY.git",
+   "repository" : "https://github.com/AndreaRibuoli/ANACLETO01.git",
    "extensions": {
        "arcad": {
            "libraryPrefix": "ITP"
