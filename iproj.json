@@ -1,0 +1,15 @@
+{
+   "version": "0.0.1",
+   "description": "ANACLETO aiuta Merlin",
+   "objlib": "&demo",
+   "curlib": "&demo",
+   "preUsrlibl": "&demo",
+   "setIBMiEnvCmd": ["CALL &demo/SETUP"],
+   "repository" : "https://github.com/AndreaRibuoli/RIBY.git",
+   "extensions": {
+       "arcad": {
+           "libraryPrefix": "ITP"
+       }
+   }
+}
+
